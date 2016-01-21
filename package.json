@@ -1,0 +1,26 @@
+{
+  "name": "cown",
+  "version": "0.1.0",
+  "description": "Qiniu account manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "keywords": [
+    "qiniu",
+    "qn"
+  ],
+  "author": "Randy Lu <randypriv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "qn": "^1.1.1"
+  },
+  "devDependencies": {
+    "xo": "^0.12.1"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": true
+  }
+}
