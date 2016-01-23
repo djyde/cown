@@ -1,7 +1,7 @@
 {
   "name": "cown",
   "version": "0.1.0",
-  "description": "Qiniu account manager",
+  "description": "Qiniu bucket manager and uploader",
   "main": "index.js",
   "bin": {
     "cown": "./lib/cli.js"
