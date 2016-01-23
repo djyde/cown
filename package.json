@@ -7,7 +7,6 @@
     "cown": "./lib/cli.js"
   },
   "scripts": {
-    "test": "xo"
   },
   "keywords": [
     "qiniu",
