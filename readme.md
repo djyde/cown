@@ -10,6 +10,12 @@ $ npm install -g cown
 
 ## Quick start
 
+You need to configure a Qiniu account first:
+
+```bash
+$ cown add -a
+```
+
 Configure a new bucket:
 
 ```bash
