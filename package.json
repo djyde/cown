@@ -16,9 +16,12 @@
   "author": "Randy Lu <randypriv@gmail.com>",
   "license": "MIT",
   "dependencies": {
+    "clipboard": "^1.5.5",
     "colors": "^1.1.2",
     "commander": "^2.9.0",
+    "copy-paste": "^1.1.4",
     "inquirer": "^0.11.3",
+    "lodash": "^4.0.0",
     "lowdb": "^0.12.2",
     "qn": "^1.1.1"
   },
