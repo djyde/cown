@@ -2,6 +2,10 @@
 
 Qiniu bucket manager && upload tool
 
+## Screenshot
+
+![](http://blogscdn.qiniudn.com/cown.gif)
+
 ## Install
 
 ```bash
@@ -25,7 +29,7 @@ $ cown add
 Upload file:
 
 ```bash
-$ cown upload path/to/my.png
+$ cown upload path/to/my.png # use -p to auto copy source link
 ```
 
 List all buckets:
