@@ -6,6 +6,9 @@
   "bin": {
     "cown": "./lib/cli.js"
   },
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "eslint lib/*.js lib/**/*.js"
   },
